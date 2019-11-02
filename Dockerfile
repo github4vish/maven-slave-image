@@ -1,5 +1,5 @@
 FROM ubuntu:18.04
-MAINTAINER Bibin Wilson <bibinwilsonn@gmail.com>
+MAINTAINER viswanadh mnv <viswanadh.mnv@gmail.com>
 
 # Make sure the package repository is up to date.
 RUN apt-get update && \
